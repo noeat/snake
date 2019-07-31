@@ -1,0 +1,4 @@
+<res>
+   <item name="images/s1-option-background.png" type="Sprite" compress="0" pack="0" quality="80" props="width=640@@!@@height=1136" picType="1" scale="0"/>
+   <item name="images/mask.png" type="Sprite" compress="0" pack="0" quality="80" props="width=640@@!@@height=1136@@!@@" picType="1" scale="0"/>
+</res>
